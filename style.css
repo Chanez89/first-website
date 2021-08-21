@@ -1,0 +1,12 @@
+body {
+    background: rgb(204, 98, 148);
+  }
+
+ p {
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 150px;
+    margin-left: 80px;
+  }
+
+  h1 {font-size: 5cm;}
