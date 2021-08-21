@@ -2,7 +2,7 @@ body {
     background: rgb(204, 98, 148);
   }
 
- p {
+ p, h2, h3 {
     margin-top: 100px;
     margin-bottom: 100px;
     margin-right: 150px;
@@ -10,3 +10,4 @@ body {
   }
 
   h1 {font-size: 5cm;}
+
